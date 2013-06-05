@@ -1,6 +1,6 @@
 PROBLEM STATEMENT:
 
-Apply Hadoop mapreduce to derive some statistics from White House Visitor Log. There are currently 2.9 million records available at
+Apply Hadoop mapreduce to derive some statistics from White House Visitor Log. There are currently 3 million+ records available at
 
 http://www.whitehouse.gov/briefing-room/disclosures/visitor-records
 
