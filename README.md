@@ -1,10 +1,10 @@
 PROBLEM STATEMENT:
 
-Please apply Hadoop mapreduce to derive some statistics from White House Visitor Log. There are currently 2.9 million records available at
+Apply Hadoop mapreduce to derive some statistics from White House Visitor Log. There are currently 2.9 million records available at
 
 http://www.whitehouse.gov/briefing-room/disclosures/visitor-records
 
-Data is available as web only spreadsheet view and downloadable raw format in CSV (Comma Separated Value). In CSV format each column is separated by a comma “,” in each line. The first line represents the heading for the corresponding columns in other lines. We are going to use this raw data for our mapreduce operation.
+Data is available as web only spreadsheet view and downloadable raw format in CSV (Comma Separated Value). In CSV format each column is separated by a comma ï¿½,ï¿½ in each line. The first line represents the heading for the corresponding columns in other lines. We are going to use this raw data for our mapreduce operation.
 
 You are required to write efficient Hadoop MapReduce programs in Java to find the following information:
 
